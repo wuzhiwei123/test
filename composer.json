@@ -1,0 +1,21 @@
+{
+    "name": "wuzhiwei/demo",
+    "description": "this is a compser test demo",
+    "homepage":"https://github.com/wuzhiwei/demo",
+    "type": "library",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wuzhiwei\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wzhw",
+            "email": "402710788@qq.com",
+            "homepage":"https://github.com/wuzhiwei/demo"
+        }
+    ]
+}
